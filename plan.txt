@@ -1,0 +1,7 @@
+1. header section - done
+2. hero section - done 
+3. about me section - done 
+4. experience that includes work section
+5. skills section - done
+6. projects section
+7. contact me section - done
