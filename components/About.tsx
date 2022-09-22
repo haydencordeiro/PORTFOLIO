@@ -14,7 +14,7 @@ function About({ }: Props): ReactElement {
                 </h4>
 
                 <ul className=' list-disc space-y-4 italic font-light'>
-                    <li>Hi, I am Karan Doshi and currently, I am pursuing my Master's degree in Computer Science from Seattle University.</li>
+                    <li>Hi, I am Karan Doshi and currently, I am pursuing my Masters degree in Computer Science from Seattle University.</li>
                     <li>A passionate computer science student with an affinity for development and entrepreneurship.</li>
                     <li> I am a problem solver with smart and detail-oriented skills. I often find happiness in assisting others.</li>
                     <li>Calm, dedicated, and trustworthy to work on new technologies and projects. Constantly exploring new boundaries of technologies and understanding the business world.</li>

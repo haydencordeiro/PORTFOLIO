@@ -23,7 +23,7 @@ function ContactMe({ }: Props) {
 
             <div className=' flex flex-col space-y-10 mt-24'>
                 <h4 className=' text-2xl font-semibold text-center'>
-                    Let's Connect?
+                    Want to Connect?
                 </h4>
 
                 <div className=' space-y-8'>

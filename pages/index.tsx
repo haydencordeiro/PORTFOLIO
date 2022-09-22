@@ -26,7 +26,7 @@ const Home = ({}: Props) => {
     <div 
     className='bg-blue h-screen snap-y snap-mandatory overflow-y-scroll overflow-x-hidden z-0 scrollbar scrollbar-track-gray-400/30 scrollbar-thumb-slate-100'>
       <Head>
-        <title>Karan Doshi's Portfolio </title>
+        <title>Karan Doshi Portfolio </title>
       </Head>
 
       <Header/>
